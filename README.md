@@ -1,6 +1,6 @@
 # Shell Color Scripts
 
-Forked from Derek Taylor "dwt1" on GitLab, with a fix for the "hex" colorscript which relies on .Xresources, which not all users may have in their system.
+Forked from Derek Taylor "dwt1" on GitLab, with a fix for the "hex" colorscript which previously relied on .Xresources, which not all users may have in their system.
 What follows is a modified version of dwt1's README.md.
 
 ![Screenshot of shell-color-scripts](https://gitlab.com/dwt1/dotfiles/raw/master/.screenshots/dotfiles12.png)
